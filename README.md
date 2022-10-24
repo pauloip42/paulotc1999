@@ -1,10 +1,10 @@
 
 <h1><img width="30" alt="about" src="./.src/info.svg"> About Me
 <div align="right">
-<a href="https://www.instagram.com/pauloip42/" target="_blank">
+<a href="https://www.instagram.com/paulolopes.tech/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href="https://www.linkedin.com/in/pauloip42/" target="_blank">
+<a href="https://www.linkedin.com/in/paulolopestech/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 </div>
@@ -56,8 +56,8 @@ const PauloLopes = {
 
 <div style="display: inline_block">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloip42&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Paulo Lopes's github stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloip42&hide=html,css&layout=compact&theme=github_dark&langs_count=10" alt="Paulo Lopes's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulolopestech&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Paulo Lopes's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulolopestech&hide=html,css&layout=compact&theme=github_dark&langs_count=10" alt="Paulo Lopes's github stats"/>
 
 </div>
 
