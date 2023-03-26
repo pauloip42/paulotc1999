@@ -9,6 +9,7 @@
 </a>
 </div>
 </h1>
+<blockquote>Learning a little bit about everything, and a lot about some things...</blockquote>
 
 ### <img align="right" width="35%" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" />
 
