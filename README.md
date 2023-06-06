@@ -58,8 +58,8 @@ const PauloLopes = {
 
 <div style="display: inline_block">
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulolopestech&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Paulo Lopes's github stats"/>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulolopestech&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Paulo Lopes's github stats"/>
+<img align="center" height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulolopestech&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Paulo Lopes's github stats"/>
+<img align="center" height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulolopestech&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Paulo Lopes's github stats"/>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
