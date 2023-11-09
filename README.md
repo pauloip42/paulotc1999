@@ -49,17 +49,6 @@ const PauloLopes = {
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></code>
 
-
-
-## **GitHub Stats**
-
-<div style="display: inline_block">
-
-<img align="center" height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulolopestech&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Paulo Lopes's github stats"/>
-<img align="center" height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulolopestech&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=4" alt="Paulo Lopes's github stats"/>
-<br />
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulolopestech&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
