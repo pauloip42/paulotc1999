@@ -1,53 +1,12 @@
+<blockquote align="left">Learning a little bit about everything, and a lot about some things...</blockquote>
 
-<h1><img width="30" alt="about" src="./.src/info.svg"> About Me
+<p>
 <div align="right">
-<a href="https://www.linkedin.com/in/paulolopestech/" target="_blank">
+</div>
+<a align="right" href="https://www.linkedin.com/in/paulolopestech/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-</div>
-</h1>
-<blockquote>Learning a little bit about everything, and a lot about some things...</blockquote>
-
-### <img align="right" width="35%" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" />
-
-```javascript
-const PauloLopes = {
-  name: 'Paulo Henrique Lopes Júnior',
-  code: ['Javascript','Typescript', 'Java', 'Python', 'C++'],
-  learning: {
-    degree: ['Studying Computer Engineering at Inatel'],
-    languages: ['Typescript', 'JavaScript', 'Java'],
-  },
-  work: ["I'm currently working at Nouvenn"],
-  tools: ['Node', 'Docker', 'Jest', 'ReactJs', 'Spring'],
-  architecture: ['microservices', 'OOP'],
-  technologies: {
-        backEnd: ['Node', 'Express', 'Spring Boot'],
-        devOps: ['Docker🐳', 'Jenkins', 'Apache Kafka'],
-        frontEnd: ['HTML', 'CSS', 'ReactJS'],
-        desktop: ['ElectronJs'],
-        databases: ['MongoDB', 'MySql', 'sqlite'],
-  },
-}
-```
-
-## **Languages and Tools:**  
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></code>
+</p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
